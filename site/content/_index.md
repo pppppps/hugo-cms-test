@@ -1,7 +1,7 @@
 ---
-title: test_20200503
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: あああああああ
+subtitle: ああああああああ
+image: img/about-direct-sourcing.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
