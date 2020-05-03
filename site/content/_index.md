@@ -1,6 +1,6 @@
 ---
-title: あああああああ
-subtitle: ああああああああ
+title: hugo-cms-test
+subtitle: hugo-cms-test
 image: img/about-direct-sourcing.jpg
 blurb:
   heading: Why Kaldi?
